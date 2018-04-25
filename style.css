@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  background-color: #1f1f1f;
+  color: #646464;
+  margin: 0;
+  padding: 0;
+}
+
+#input-filter {
+  background-color: #aeaeae;
+}
+
+.gray {
+  background-color: #b7b7b7;
+}
+
+#link {
+  color: #4f4fce;
+}
+
+#cancel-find {
+  color: #ba2f2f;
+}
+
+::-webkit-scrollbar {
+    background:black;
+}
+
+::-webkit-scrollbar-thumb {
+    background:#464646;
+}
+
+#left {
+  padding-left: 20px;
+}
